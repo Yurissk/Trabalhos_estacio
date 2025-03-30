@@ -60,13 +60,13 @@ int main()
 
     double densidade_populacional_1 = populacao_1 / area_1;
     double pib_per_capita_1 = pib_1 / populacao_1;
-    double densidade_inv_1 = area_1 / populacao_1;
-    double super_poder_1 = populacao_1 + area_1 + pib_1 + pontos_turisticos_1 + pib_per_capita_1 + densidade_inv_1;
+    double densidade_demografica_1 = area_1 / populacao_1;
+    double super_poder_1 = populacao_1 + area_1 + pib_1 + pontos_turisticos_1 + pib_per_capita_1 + densidade_demografica_1;
 
     double densidade_populacional_2 = populacao_2 / area_2;
     double pib_per_capita_2 = pib_2 / populacao_2;
-    double densidade_inv_2 = area_2 / populacao_2;
-    double super_poder_2 = populacao_2 + area_2 + pib_2 + pontos_turisticos_2 + pib_per_capita_2 + densidade_inv_2;
+    double densidade_demografica_2 = area_2 / populacao_2;
+    double super_poder_2 = populacao_2 + area_2 + pib_2 + pontos_turisticos_2 + pib_per_capita_2 + densidade_demografica_2;
 
     printf("-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-Super Trunfo_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_\n");
 
