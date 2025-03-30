@@ -185,7 +185,7 @@ int main()
     }
 
     // Comparação Densidade demografica
-    if (densidade_demografica_1 > densidade_demografica_2)
+    if (densidade_demografica_2 > densidade_demografica_1)
     {
         printf("Densidade demográfica: Carta 1 ganhou! (%lf)\n", densidade_demografica_1);
     }
